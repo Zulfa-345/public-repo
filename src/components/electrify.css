@@ -1,0 +1,18 @@
+.gridnew{
+display: flex;
+row-gap: 10px;
+}
+.image{
+    width: 50%;
+}
+.Elist1:hover{
+    text-decoration: underline;
+}
+.Elist{
+    list-style: none;
+    color: cornflowerblue;
+    display: flex;
+    justify-content: space-around;
+    font-size: larger;
+    margin-top: 10px;
+}

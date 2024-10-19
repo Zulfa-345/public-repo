@@ -1,0 +1,22 @@
+.bg{
+    background-color:"gray";
+    border-radius:"50px"
+}
+.gridTop{
+ display: flex;
+ justify-content: center;
+ gap: 8px;
+ list-style: none;
+font-size: 35px;
+}
+.Blist1:hover{
+    text-decoration: underline;
+}
+.Blist{
+    list-style: none;
+    color: cornflowerblue;
+    display: flex;
+    justify-content: space-around;
+    font-size: larger;
+    margin-top: 10px;
+}

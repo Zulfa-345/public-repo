@@ -1,0 +1,21 @@
+.textontop{
+    position: absolute;
+    top:30%;
+    left:30%;
+    color:white;
+    transform:"translate(30%,30%)";
+}
+.vdo{
+position: relative;
+} 
+.btn{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border: 1px;
+    border-radius: 150px
+}
+.btn:hover{
+    opacity: 0.7;
+    
+}

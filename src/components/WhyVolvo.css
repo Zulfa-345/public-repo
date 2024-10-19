@@ -1,0 +1,10 @@
+.volvo{
+    text-align: center;
+    margin-top: 200px;
+   
+}
+.grid{
+    display: flex;
+    padding: 30px;
+    column-gap: 8px;
+}

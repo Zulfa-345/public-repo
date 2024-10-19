@@ -1,0 +1,30 @@
+.imgstyle{
+    position: relative;
+    margin-top: 80px;
+
+}
+.overimg{
+    position:absolute;
+    color:black;
+    top:20%;
+    left:5%;
+    transform:"translate(5%,20%)";
+}
+.buttonstyle{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border: 1px black solid;
+}
+.buttonstyle:hover{
+    background-color: grey;
+}
+div{
+    text-align: center;
+}
+.quickGrid{
+display: flex;
+grid-area: 10px;
+justify-content: space-evenly;
+
+}

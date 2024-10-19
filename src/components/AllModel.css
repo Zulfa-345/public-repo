@@ -1,0 +1,42 @@
+.contentA{
+ text-align: center;
+ margin-top: 100px;
+ 
+}
+.list{
+    list-style: none;
+    color: cornflowerblue;
+    display: flex;
+    justify-content: space-around;
+    font-size: larger;
+    margin-top: 10px;
+}
+.list1:hover{
+    text-decoration: underline;
+}
+
+.btns{
+    border: 1px solid cornflowerblue;
+    padding: 15px;
+    background-color: white;
+    color: cornflowerblue;
+    margin-left: 50px;
+
+}
+.btns:hover{
+    background-color: cornflowerblue;
+    color: white;
+}
+.suv{
+    color: grey;
+}
+.suv:hover{
+    color: cornflowerblue;
+}
+/* img:hover{
+    width: ;
+    height: ;
+} */
+ span{
+    color: black;
+ }
