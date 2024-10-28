@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 // import './App.css';
 
-import LandingPage from "./Pages/Landingpage"
+// import LandingPage from "./Pages/Landingpage"
 
 // function App() {
 //   return (
@@ -25,11 +25,19 @@ import LandingPage from "./Pages/Landingpage"
 // }
 
 // export default App;
-import "./Pages/Landingpage"
 
+
+
+
+
+import LandingPage from "./Pages/Landingpage"
+import Scratch from "./Pages/Scratch"
 import Shop from "./Pages/Shop"
+import InstaPage from "./Pages/Instapage"
+import Todo from "./Pages/Todo"
+
 const App=()=>
   {
-      return <LandingPage/>
+      return <InstaPage/>
   }
   export default App

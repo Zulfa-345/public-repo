@@ -10,8 +10,9 @@ import Quicklink from "../components/QuickLink";
 
 
 const LandingPage=()=>{
+
     return <Fragment>
-           <Header/>
+            <Header/>
            <LearnMore/>
            <Hero/>
            <AllModel/> 

@@ -1,9 +1,10 @@
 import { Fragment } from "react"
 import { Carousel } from "react-bootstrap"
 const Shop=()=>{
+
 return <Fragment>
    
-    <Carousel data-bs-theme="dark">
+    {/* <Carousel data-bs-theme="dark">
       <Carousel.Item>
         <img 
         style={{width:"100", height:"500"}}
@@ -35,7 +36,7 @@ return <Fragment>
          
         />
       </Carousel.Item>
-    </Carousel>
+    </Carousel> */}
 
 </Fragment>
 }
