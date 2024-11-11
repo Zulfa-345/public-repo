@@ -1,0 +1,10 @@
+.rating{
+  
+    display: flex;
+   margin-left: 50px;
+    gap: 2px;
+    border: 2px solid pink;
+    width: fit-content;
+  background-color: black;
+  color: white;
+}
